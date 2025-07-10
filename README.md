@@ -40,7 +40,7 @@ This repository showcases my experience working with big data frameworks, geospa
 ## Screenshot
 Below is a screenshot of the project directory:
 
-![Code Directory Screenshot](assets/data processing at scale-summary screenshot.jpg)
+![Code Directory Screenshot](assets/data%20processing%20at%20scale-summary%20screenshot.jpg)
 
 ---
 
